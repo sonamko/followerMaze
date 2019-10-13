@@ -1,0 +1,14 @@
+Following project contains the implementation [in JAVA language]for the FollowerMaze challenge.
+
+Project includes :
+1. JAVA based implementation of the challenge.
+2. JUnit test cases for the classes.
+
+
+Please follow the instructions to run the program :
+1. "Server.java" is the main class [path :  src/main/server/Server.java] . Run it to start the program
+2. Run the jar file "follower-maze-2.0.jar" supplied with the challenge. 
+3. Sample Screenshot "FollowerMazeScreentShot" of successful execution is also attached for your reference.
+
+
+Note : All the classes and methods have author notes added which are self explanatory and specifies the intent of the class/ method.
